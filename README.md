@@ -19,3 +19,6 @@ npm run dev
 ```bash
 npm run build
 ```
+
+Ensure the Vite configuration includes the React plugin to prevent build-time
+errors such as `React is not defined`.
