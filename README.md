@@ -2,6 +2,10 @@
 
 A simple React and Vite project for managing courses and users.
 
+The project now includes a Spring Boot backend configured to use a MySQL
+database. Ensure MySQL (or MariaDB) is running locally and update the
+`application.properties` file if your credentials differ from the defaults.
+
 ## Installation
 
 ```bash
